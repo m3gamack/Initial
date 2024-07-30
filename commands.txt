@@ -1,0 +1,18 @@
+ <mkdir>: <new directory>
+ <rm> 	: <delete files and folders>
+ <cd> 	: <change directory>
+ <touch>: <create new, empty file>
+ <pwd> 	: <print working directory>
+ <ls> 	: <list attributes of files and directories>
+ <grep> : <search for text within a file>
+ <find> : <locate files in specific directories by file names>
+<mdfind>: <search files and folders>
+
+How can you delete a file?
+ rm -f [file name]
+
+How can you delete a directory using the same command?
+ rm -d [directory]
+
+
+
